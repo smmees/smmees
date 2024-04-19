@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smmees
-- 👀 I’m interested in AI development.
+- 👀 I’m interested in AI.
 - 🌱 I’m currently learning big data and AI.
 - 💞️ I’m looking to collaborate on machine learning and AI.
 - 📫 How to reach me: e20578620e@gmail.com
